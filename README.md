@@ -18,6 +18,6 @@
 
 👉 **Modern Responsive Design**: A fresh and minimalist UI that emphasizes usability, ensuring a clean aesthetic across all devices.
 
-and many more, including the latest **React 19**, **Next.js 15** and **Appwrite** features alongside code architecture and
+and many more, including the latest **React 19**, **Next.js 16** and **Appwrite** features alongside code architecture and
 reusability
 
